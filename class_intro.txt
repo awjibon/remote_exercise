@@ -1,7 +1,7 @@
 Open Source Software Course
 
-Instructor: Walid Abdullah AI
+Instructor:
+Walid Abdullah, Dept. of Computer Engineering
 
-Students: Sang Yoon Lee
-
-Department: Computer and Electronic System Engineering
+Students:
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
