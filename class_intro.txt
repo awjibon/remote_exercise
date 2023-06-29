@@ -2,6 +2,25 @@ Open Source Software Course
 
 
 Instructor:
+<<<<<<< HEAD
+=======
+walid abdullah ,dept, of computer Engineer
+
+Students:
+donghyun ryu
+=======
+Instructor: 
+Walid Abdullah, Dept. of Computer Engineering
+
+Students:
+Kim Jeong Min, Dept. of Computer Engineering
+>>>>>>> origin/main
+=======
+=======
+
+Instructor:
+
+>>>>>>> origin/main
 Walid Abdullah, Dept. of computer Engineer
 
 Students:
@@ -10,7 +29,12 @@ Hwang Seojin, Dept .of Computer Engineering
 
     김준, 전자물리학과
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+<<<<<<< HEAD
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 Subin Jo, Dept. of Statistic
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
