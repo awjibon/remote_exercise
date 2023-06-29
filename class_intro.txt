@@ -1,7 +1,14 @@
 Open Source Software Course
 
-Instructor:
-Walid Abdullah, Dept. of Computer Enginnering
+
+
 
 Students: 
-Kim Dae Won, Dept.of Computer Enginnering
+Kim Dae Won, Dept.of Computer Engineering
+
+Instructor: 
+Walid Abdullah, Dept. of Computer Engineering
+
+Students:
+Kim Jeong Min, Dept. of Computer Engineering
+
