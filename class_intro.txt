@@ -3,6 +3,9 @@ Open Source Software Course
 
 
 Instructor:
+Walid Abdullah Al, Dept. of Computer Engineering
+
+
 
 walid abdullah ,dept, of computer Engineer
 
@@ -17,7 +20,7 @@ Walid Abdullah Al, Dept. of Computer Engineering
 Students:
 
  Kang Ji Yoon, Dept. of Chinese Interpretation and Translation 
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 
 Student:
@@ -44,7 +47,7 @@ lee min su,dept,of Computer and Electronic System Engineering
 
 Instructor: 
 Walid Abdullah, Dept. of Computer enginnering
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 Students:
 Woojaeyoung dept, of Computer Engineering 
@@ -74,7 +77,7 @@ lee min su,dept,of Computer and Electronic System Engineering
 Choi Hyun Min, dept. of information and communication engineering
 
 Kim Jeong Min, Dept. of Computer Engineering
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 <<<<<<< HEAD
 Instructor:
@@ -107,7 +110,7 @@ Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 
 shin beomsoo, Dept. of ICE
@@ -127,6 +130,10 @@ Hwang Seojin, Dept .of Computer Engineering
 김준, 전자물리학과
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 kim ye jin, Dept. of Computer and Electronic System Engineering
+
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+jaehyeon park, dept of japanese interpretation and translation
+
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
@@ -160,8 +167,13 @@ Kim Dae Won, Dept. of Computer and Electronic System Engineering
 
 Hyeonho Jang, Dept. of Information Communications Engineering
 
+Byeori KIM, Dept. of Information Communications Engineering
+
+Minseung Kim, Dept of Information Communications Engineering
+
+
 
 Hyeonho Jang, Dept. of Information Communications Engineering
-
+Byeori Kim, Dept. of Information Communications Engineering
 Park Minjeong, Dept. of Biomedical Engineering
 
