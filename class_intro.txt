@@ -30,7 +30,6 @@ Walid Abdullah, Dept. of Computer enginnering
 
 
 Students:
-Miseung Kim
 Woojaeyoung dept, of Computer Engineering 
 jeon sujin. dept of Electronic physics
 kim eung jin, def of compueter Engineering
@@ -142,5 +141,5 @@ Hyeonho Jang, Dept. of Information Communications Engineering
 
 Byeori KIM, Dept. of Information Communications Engineering
 
-
+Minseung Kim, Dept of Information Communications Engineering
 
