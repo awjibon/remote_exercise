@@ -20,7 +20,7 @@ Walid Abdullah Al, Dept. of Computer Engineering
 Students:
 
  Kang Ji Yoon, Dept. of Chinese Interpretation and Translation 
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 
 Student:
@@ -47,7 +47,7 @@ lee min su,dept,of Computer and Electronic System Engineering
 
 Instructor: 
 Walid Abdullah, Dept. of Computer enginnering
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 Students:
 Woojaeyoung dept, of Computer Engineering 
@@ -77,7 +77,7 @@ lee min su,dept,of Computer and Electronic System Engineering
 Choi Hyun Min, dept. of information and communication engineering
 
 Kim Jeong Min, Dept. of Computer Engineering
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 김준, 전자물리학과
 
@@ -99,7 +99,7 @@ Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 
-
+Byeori Kim, Dept. of Information Communications Engineering
 
 
 shin beomsoo, Dept. of ICE
@@ -160,5 +160,5 @@ Minseung Kim, Dept of Information Communications Engineering
 
 
 Hyeonho Jang, Dept. of Information Communications Engineering
-
+Byeori Kim, Dept. of Information Communications Engineering
 Park Minjeong, Dept. of Biomedical Engineering
