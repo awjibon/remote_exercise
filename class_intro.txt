@@ -1,7 +1,15 @@
 Open Source Software Course
 
+<<<<<<< HEAD
+Instructor: 
+Walid Abdullah, Dept. of Computer enginnering
+
+Students: jeon sujin. dept of Electronic physics
+=======
 
 Instructor:
+<<<<<<< HEAD
+=======
 walid abdullah ,dept, of computer Engineer
 
 Students:
@@ -18,9 +26,12 @@ Kim Jeong Min, Dept. of Computer Engineering
 
 Instructor:
 
+>>>>>>> origin/main
 Walid Abdullah, Dept. of computer Engineer
+
 Students:
 InJu Choi
+<<<<<<< HEAD
 =======
 Walid Abdullah, Dept. of Computer Engineering
 =======
@@ -45,6 +56,8 @@ Kim Jeong Min, Dept. of Computer Engineering
 
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 Hwang Seojin, Dept .of Computer Engineering
 
 >>>>>>> origin/main
@@ -52,6 +65,7 @@ Hwang Seojin, Dept .of Computer Engineering
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 kim ye jin, Dept. of Computer and Electronic System Engineering
@@ -60,10 +74,17 @@ Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 =======
 
 >>>>>>> origin/main
+=======
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Subin Jo, Dept. of Statistic
+>>>>>>> origin/main
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+<<<<<<< HEAD
 <<<<<<< HEAD
 Lyu Ji-ah, Dept. of Biomedical Engineering
 =======
@@ -72,4 +93,6 @@ Lyu Ji-ah, Dept. of Biomedical Engineering
 >>>>>>> origin/main
 =======
 =======
+=======
+>>>>>>> origin/main
 >>>>>>> origin/main
