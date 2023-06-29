@@ -1,11 +1,10 @@
 Open Source Software Course
 
-<<<<<<< HEAD
+
 Instructor: 
 Walid Abdullah, Dept. of Computer enginnering
 
 Students: jeon sujin. dept of Electronic physics
-=======
 
 
 
@@ -17,8 +16,7 @@ Kim Jeong Min, Dept. of Computer Engineering
 
 Instructor:
 Instructor:
-<<<<<<< HEAD
-=======
+
 walid abdullah ,dept, of computer Engineer
 
 Students:
@@ -33,35 +31,19 @@ Kim Jeong Min, Dept. of Computer Engineering
 
 Instructor:
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
->>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
 Walid Abdullah, Dept. of computer Engineer
 
 Students:
 InJu Choi
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-Walid Abdullah, Dept. of Computer Engineering
-=======
->>>>>>> origin/main
-=======
 
 Walid Abdullah, Dept. of Computer Engineering
->>>>>>> origin/main
 
 
 Instructor:
 Walid Abdullah, Dept .of Computer Engineering
+
 Students:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 Choi Hyun Min, dept. of information and communication engineering
 
@@ -71,56 +53,50 @@ Kim Jeong Min, Dept. of Computer Engineering
 김준, 전자물리학과
 
 
-=======
->>>>>>> origin/main
-=======
->>>>>>> origin/main
-=======
-=======
->>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
->>>>>>> origin/main
+
+
 Hwang Seojin, Dept .of Computer Engineering
 
->>>>>>> origin/main
+
     김준, 전자물리학과
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
->>>>>>> origin/main
-=======
-
->>>>>>> origin/main
-=======
-=======
 
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 
 
-=======
-<<<<<<< HEAD
->>>>>>> origin/main
+
+
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+
+
+
+
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 Subin Jo, Dept. of Statistic
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
->>>>>>> origin/main
+
+
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 Lyu Ji-ah, Dept. of Biomedical Engineering
 Kim Dae Won, Dept.of Computer and Electronic System Engineering
-
-
+Hwang Seojin, Dept .of Computer Engineering
+김준, 전자물리학과
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Subin Jo, Dept. of Statistic
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Kim Dae Won, Dept.of Computer and Electronic System Engineering
 
