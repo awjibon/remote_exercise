@@ -1,6 +1,8 @@
 Open Source Software Course
 
 Instructor:
+Walid Abdullah, Dept. of Computer Engineering
 
 Students:
     김준, 전자물리학과
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
