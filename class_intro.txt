@@ -1,6 +1,7 @@
 Open Source Software Course
 
 
+
 Instructor:
 
 walid abdullah ,dept, of computer Engineer
@@ -12,7 +13,18 @@ donghyun ryu
 Students:
 Walid Abdullah Al, Dept. of Computer Engineering
 
+
+Students:
+
+ Kang Ji Yoon, Dept. of Chinese Interpretation and Translation 
+
+
+
 Student:
+
+황원준, 전자물리학과
+
+>>>>>>> origin/main
 Hyeonho Jang, Dept. of Information Communications Engineering
 
 
