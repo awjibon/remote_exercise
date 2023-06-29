@@ -5,8 +5,12 @@ Walid Abdullah, Dept. of Computer Engineering
 
 Students:
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+<<<<<<< HEAD
 Kim Jeong Min, Dept. of Computer Engineering
 Moon Hyeong Geun, Department of Indian Studies
 kim ye jin, Dept. of Computer and Electronic System Engineering
+=======
+shin beomsoo, Dept. of ICE
+>>>>>>> origin/main
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
