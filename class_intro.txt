@@ -66,7 +66,6 @@ Hwang Seojin, Dept .of Computer Engineering
 김준, 전자물리학과
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 kim ye jin, Dept. of Computer and Electronic System Engineering
-<<<<<<< HEAD
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
@@ -81,3 +80,7 @@ Kim Dae Won, Dept.of Computer and Electronic System Engineering
 
 jaehyeon park, dept of japanese interpretation and translation
 Lyu Ji-ah, Dept. of Biomedical Engineering
+
+jaehyeon park, dept of japanese interpretation and translation
+Kim Dae Won, Dept. of Computer and Electronic System Engineering
+
