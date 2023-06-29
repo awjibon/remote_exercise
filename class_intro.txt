@@ -1,7 +1,15 @@
 Open Source Software Course
 
+<<<<<<< HEAD
 Instructor:
 walid abdullah ,dept, of computer Engineer
 
 Students:
 donghyun ryu
+=======
+Instructor: 
+Walid Abdullah, Dept. of Computer Engineering
+
+Students:
+Kim Jeong Min, Dept. of Computer Engineering
+>>>>>>> origin/main
