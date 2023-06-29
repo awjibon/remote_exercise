@@ -22,7 +22,7 @@ shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 Hyeonho Jang, Dept. of Information Communications Engineering
-
+lee min su,dept,of Computer and Electronic System Engineering
 
 Instructor: 
 Walid Abdullah, Dept. of Computer enginnering
@@ -47,7 +47,7 @@ kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 donghyun ryu
 InJu Choi
-
+lee min su,dept,of Computer and Electronic System Engineering
 
 Walid Abdullah, Dept. of Computer Engineering
 
