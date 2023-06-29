@@ -7,6 +7,15 @@ Walid Abdullah, Dept. of Computer enginnering
 Students: jeon sujin. dept of Electronic physics
 =======
 
+
+
+
+Students:
+Kim Jeong Min, Dept. of Computer Engineering
+
+
+
+Instructor:
 Instructor:
 <<<<<<< HEAD
 =======
@@ -14,27 +23,34 @@ walid abdullah ,dept, of computer Engineer
 
 Students:
 donghyun ryu
-=======
+
 Instructor: 
 Walid Abdullah, Dept. of Computer Engineering
 
 Students:
 Kim Jeong Min, Dept. of Computer Engineering
->>>>>>> origin/main
-=======
-=======
+
 
 Instructor:
 
+<<<<<<< HEAD
+
+=======
 >>>>>>> origin/main
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
 Walid Abdullah, Dept. of computer Engineer
 
 Students:
 InJu Choi
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Walid Abdullah, Dept. of Computer Engineering
 =======
+>>>>>>> origin/main
+=======
+
+Walid Abdullah, Dept. of Computer Engineering
 >>>>>>> origin/main
 
 
@@ -42,6 +58,7 @@ Instructor:
 Walid Abdullah, Dept .of Computer Engineering
 Students:
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -58,6 +75,10 @@ Kim Jeong Min, Dept. of Computer Engineering
 >>>>>>> origin/main
 =======
 >>>>>>> origin/main
+=======
+=======
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
+>>>>>>> origin/main
 Hwang Seojin, Dept .of Computer Engineering
 
 >>>>>>> origin/main
@@ -66,6 +87,7 @@ Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 kim ye jin, Dept. of Computer and Electronic System Engineering
@@ -75,24 +97,30 @@ Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 
 >>>>>>> origin/main
 =======
+=======
+
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+
+
+=======
+<<<<<<< HEAD
+>>>>>>> origin/main
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 Subin Jo, Dept. of Statistic
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
 >>>>>>> origin/main
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-<<<<<<< HEAD
-<<<<<<< HEAD
 Lyu Ji-ah, Dept. of Biomedical Engineering
-=======
+Kim Dae Won, Dept.of Computer and Electronic System Engineering
 
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
-=======
-=======
->>>>>>> origin/main
->>>>>>> origin/main
+
+
