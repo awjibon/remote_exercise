@@ -1,5 +1,5 @@
 Open Source Software Course
 
-Instructor:
+Instructor: instructor	
 
-Students:
+Students: Kang Ji Yoon
