@@ -7,6 +7,16 @@ Walid Abdullah Al, Dept. of Computer Engineering
 
 
 
+walid abdullah ,dept, of computer Engineer
+
+
+donghyun ryu
+
+
+Students:
+Walid Abdullah Al, Dept. of Computer Engineering
+
+
 Students:
 
  Kang Ji Yoon, Dept. of Chinese Interpretation and Translation 
@@ -17,10 +27,9 @@ Student:
 
 황원준, 전자물리학과
 
+
 Hyeonho Jang, Dept. of Information Communications Engineering
 
-Instructor:
-Walid Abdullah, Dept .of Computer Engineering
 
 Students:
 Hwang Seojin, Dept .of Computer Engineering
@@ -44,6 +53,7 @@ Students:
 Woojaeyoung dept, of Computer Engineering 
 jeon sujin. dept of Electronic physics
 kim eung jin, def of compueter Engineering
+
 Kim Jeong Min, Dept. of Computer Engineering
 InJu Choi
 Hwang Seojin, Dept .of Computer Engineering
@@ -58,17 +68,10 @@ Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Park Minjeong, Dept. of Biomedical Engineering
 donghyun ryu
 InJu Choi
 lee min su,dept,of Computer and Electronic System Engineering
-
-Walid Abdullah, Dept. of Computer Engineering
-
-
-Instructor:
-Walid Abdullah, Dept .of Computer Engineering
-
-Students:
 
 
 Choi Hyun Min, dept. of information and communication engineering
@@ -155,3 +158,7 @@ Byeori KIM, Dept. of Information Communications Engineering
 Minseung Kim, Dept of Information Communications Engineering
 
 
+
+Hyeonho Jang, Dept. of Information Communications Engineering
+
+Park Minjeong, Dept. of Biomedical Engineering
