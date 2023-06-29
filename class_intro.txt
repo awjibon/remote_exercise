@@ -1,10 +1,14 @@
 Open Source Software Course
 
-Instructor:
-Walid Abdullah, dept .of computer engineering
+Instructor: 
+Walid Abdullah, Dept. of Computer Engineering
 
 Students:
 
-hmchoi
+
+Choi Hyun Min, dept. of information and communication engineering
 
 kim yejin, dept .of computer engineering 
+
+Kim Jeong Min, Dept. of Computer Engineering
+
