@@ -1,6 +1,15 @@
 Open Source Software Course
 
 Instructor:
+<<<<<<< HEAD
 Walid Abdullah, Dept. of computer Engineer
 Students:
 InJu Choi
+=======
+Walid Abdullah, Dept. of Computer Engineering
+
+Students:
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+>>>>>>> origin/main
