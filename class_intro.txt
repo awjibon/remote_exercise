@@ -1,5 +1,32 @@
 Open Source Software Course
 
+<<<<<<< HEAD
+=======
+
+Instructor:
+Walid Abdullah Al, Dept. of Computer Engineering
+
+Student:
+Hyeonho Jang, Dept. of Information Communications Engineering
+
+Instructor:
+Walid Abdullah, Dept .of Computer Engineering
+
+Students:
+Hwang Seojin, Dept .of Computer Engineering
+김준, 전자물리학과
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+Kim Jeong Min, Dept. of Computer Engineering
+Moon Hyeong Geun, Department of Indian Studies
+kim ye jin, Dept. of Computer and Electronic System Engineering
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Hyeonho Jang, Dept. of Information Communications Engineering
+
+
+>>>>>>> origin/main
 Instructor: 
 Walid Abdullah, Dept. of Computer enginnering
 
@@ -97,6 +124,10 @@ Kim Dae Won, Dept.of Computer and Electronic System Engineering
 
 
 jaehyeon park, dept of japanese interpretation and translation
+Hyeonho Jang, Dept. of Information Communications Engineering
+kim eung jin, dept of computer engingeerging
+Kim Dae Won, Dept. of Computer and Electronic System Engineering
+Hyeonho Jang, Dept. of Information Communications Engineering
 
 Lyu Ji-ah, Dept. of Biomedical Engineering
 
@@ -107,3 +138,4 @@ Kim Dae Won, Dept. of Computer and Electronic System Engineering
 kim eung jin, dept of computer engingeerging
 Kim Dae Won, Dept. of Computer and Electronic System Engineering
 
+Hyeonho Jang, Dept. of Information Communications Engineering
