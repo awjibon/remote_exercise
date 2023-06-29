@@ -13,6 +13,10 @@ Students:
 
 
 
+Student:
+
+황원준, 전자물리학과
+
 Hyeonho Jang, Dept. of Information Communications Engineering
 
 Instructor:
@@ -149,3 +153,5 @@ Hyeonho Jang, Dept. of Information Communications Engineering
 Byeori KIM, Dept. of Information Communications Engineering
 
 Minseung Kim, Dept of Information Communications Engineering
+
+
