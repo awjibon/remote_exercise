@@ -1,5 +1,11 @@
 Open Source Software Course
 
+<<<<<<< HEAD
+Instructor: 
+Walid Abdullah, Dept. of Computer enginnering
+
+Students: jeon sujin. dept of Electronic physics
+=======
 
 
 
@@ -11,6 +17,8 @@ Kim Jeong Min, Dept. of Computer Engineering
 
 Instructor:
 Instructor:
+<<<<<<< HEAD
+=======
 walid abdullah ,dept, of computer Engineer
 
 Students:
@@ -25,10 +33,16 @@ Kim Jeong Min, Dept. of Computer Engineering
 
 Instructor:
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
 Walid Abdullah, Dept. of computer Engineer
+
 Students:
 InJu Choi
+<<<<<<< HEAD
 
 Walid Abdullah, Dept. of Computer Engineering
 
@@ -37,19 +51,33 @@ Instructor:
 Walid Abdullah, Dept .of Computer Engineering
 Students:
 
+=======
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
 Hwang Seojin, Dept .of Computer Engineering
 
     김준, 전자물리학과
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+<<<<<<< HEAD
 
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
 
 
+=======
+<<<<<<< HEAD
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Subin Jo, Dept. of Statistic
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+<<<<<<< HEAD
 Kim Dae Won, Dept.of Computer and Electronic System Engineering
 
 
+=======
+>>>>>>> origin/main
+>>>>>>> 7efa04e05748d283925f5bdda6c3a7c1d4fddec1
