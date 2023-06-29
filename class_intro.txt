@@ -14,14 +14,35 @@ Students:
 Kim Jeong Min, Dept. of Computer Engineering
 >>>>>>> origin/main
 =======
-Instructor:
-Walid Abdullah, Dept. of Computer Engineering
+=======
 
+Instructor:
+
+Walid Abdullah, Dept. of computer Engineer
 Students:
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-<<<<<<< HEAD
+InJu Choi
+=======
+Walid Abdullah, Dept. of Computer Engineering
+=======
 >>>>>>> origin/main
+
+
+Instructor:
+Walid Abdullah, Dept .of Computer Engineering
+Students:
+
+Hwang Seojin, Dept .of Computer Engineering
+
+    김준, 전자물리학과
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 =======
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
->>>>>>> origin/main
+=======
+
+Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+
+=======
