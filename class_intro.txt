@@ -5,7 +5,14 @@ Open Source Software Course
 Instructor:
 Walid Abdullah Al, Dept. of Computer Engineering
 
-Student:
+Instructor: instructor	
+
+Students:
+
+ Kang Ji Yoon, Dept. of Chinese Interpretation and Translation 
+
+
+
 Hyeonho Jang, Dept. of Information Communications Engineering
 
 Instructor:
@@ -142,4 +149,3 @@ Hyeonho Jang, Dept. of Information Communications Engineering
 Byeori KIM, Dept. of Information Communications Engineering
 
 Minseung Kim, Dept of Information Communications Engineering
-
