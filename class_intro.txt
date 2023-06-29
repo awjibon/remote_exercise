@@ -1,37 +1,22 @@
 Open Source Software Course
 
-
-
 Instructor:
+Walid Abdullah, Dept. of Computer enginnering
 
-walid abdullah ,dept, of computer Engineer
-
-
+Students:
+jeon sujin. dept of Electronic physics
+Kim Jeong Min, Dept. of Computer Engineering
 donghyun ryu
-
-
-Students:
-Walid Abdullah Al, Dept. of Computer Engineering
-
-
-Students:
-
- Kang Ji Yoon, Dept. of Chinese Interpretation and Translation 
-
-
-
-Student:
-
-황원준, 전자물리학과
-
-
-Hyeonho Jang, Dept. of Information Communications Engineering
-
-
-Students:
+InJu Choi
 Hwang Seojin, Dept .of Computer Engineering
 김준, 전자물리학과
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+shin beomsoo, Dept. of ICE
+kim ye jin, Dept. of Computer and Electronic System Engineering
+Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
+Subin Jo, Dept. of Statistic
 Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
 Kim Jeong Min, Dept. of Computer Engineering
 Moon Hyeong Geun, Department of Indian Studies
@@ -39,114 +24,7 @@ kim ye jin, Dept. of Computer and Electronic System Engineering
 shin beomsoo, Dept. of ICE
 kim ye jin, Dept. of Computer and Electronic System Engineering
 Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Hyeonho Jang, Dept. of Information Communications Engineering
-lee min su,dept,of Computer and Electronic System Engineering
-
-Instructor: 
-Walid Abdullah, Dept. of Computer enginnering
-
-
-Students:
-Woojaeyoung dept, of Computer Engineering 
-jeon sujin. dept of Electronic physics
-kim eung jin, def of compueter Engineering
-
-Kim Jeong Min, Dept. of Computer Engineering
-InJu Choi
-Hwang Seojin, Dept .of Computer Engineering
-Kim Eung Jin , 컴퓨터공학전공
-    김준, 전자물리학과
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-shin beomsoo, Dept. of ICE
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Subin Jo, Dept. of Statistic
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-shin beomsoo, Dept. of ICE
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Park Minjeong, Dept. of Biomedical Engineering
-donghyun ryu
-InJu Choi
-lee min su,dept,of Computer and Electronic System Engineering
-
-
-Choi Hyun Min, dept. of information and communication engineering
-
-Kim Jeong Min, Dept. of Computer Engineering
-
-
-김준, 전자물리학과
-
-
-
-
-Hwang Seojin, Dept .of Computer Engineering
-
-
-    김준, 전자물리학과
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-
-
-
-
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-
-
-
-
-shin beomsoo, Dept. of ICE
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Subin Jo, Dept. of Statistic
-
-
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-shin beomsoo, Dept. of ICE
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Lyu Ji-ah, Dept. of Biomedical Engineering
 Kim Dae Won, Dept.of Computer and Electronic System Engineering
-
-Hwang Seojin, Dept .of Computer Engineering
-김준, 전자물리학과
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-shin beomsoo, Dept. of ICE
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Subin Jo, Dept. of Statistic
-Sang Yoon Lee, Dept. of Computer and Electronic System Engineering
-shin beomsoo, Dept. of ICE
-kim ye jin, Dept. of Computer and Electronic System Engineering
-Hwan Jun Koo, Dept. of Computer and Electronic System Engineering
-Kim Dae Won, Dept.of Computer and Electronic System Engineering
-lee min su,dept,of Computer and Electronic System Engineering
-
+Moon Hyeong Geun, Department of Indian Studies
 jaehyeon park, dept of japanese interpretation and translation
-Hyeonho Jang, Dept. of Information Communications Engineering
-kim eung jin, dept of computer engingeerging
-Kim Dae Won, Dept. of Computer and Electronic System Engineering
-Hyeonho Jang, Dept. of Information Communications Engineering
-
-Lyu Ji-ah, Dept. of Biomedical Engineering
-
-jaehyeon park, dept of japanese interpretation and translation
-Kim Dae Won, Dept. of Computer and Electronic System Engineering
-
-
-kim eung jin, dept of computer engingeerging
-Kim Dae Won, Dept. of Computer and Electronic System Engineering
-
-
-Hyeonho Jang, Dept. of Information Communications Engineering
-
-
-Hyeonho Jang, Dept. of Information Communications Engineering
-
 Park Minjeong, Dept. of Biomedical Engineering
